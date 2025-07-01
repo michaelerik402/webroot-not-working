@@ -4,7 +4,7 @@ How to Fix Webroot Not Working?
 
 Webroot SecureAnywhere is a trusted antivirus and internet security software that offers cloud-based protection with real-time scanning, lightweight performance, and automatic updates. While Webroot generally runs smoothly in the background, there are times when it may stop working properly. Users may notice that the software fails to open, doesn't run scheduled scans, displays error messages, or even disappears from the system tray.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
